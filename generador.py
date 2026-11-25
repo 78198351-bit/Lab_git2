@@ -17,6 +17,8 @@ q0, F = "q0", {"q4"}
 
 # === Simulación ===
 # Prueba commit
+
+#prueba 2 commit pull 
 def run(s):
     q, steps = q0, [q0]
     for i,ch in enumerate(s):
